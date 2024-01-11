@@ -15,7 +15,7 @@
 <td style="width: 33.3333%; height: 18px; text-align: center;"><strong>Стек</strong></td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 33.3333%; height: 18px;"><a href="https://github.com/artem-ilienkov/product_analysis_ed_tech" target="_blank" rel="noopener"><span>Образовательный портал</span></a></td>
+<td style="width: 33.3333%; height: 18px;"><a href="https://github.com/artem-ilienkov/product_analysis_ed_tech" target="_blank" rel="noopener"><span>Анализ работы образовательного портал</span></a></td>
 <td style="width: 33.3333%; height: 18px;"><span>Анализ покупательского поведения (частоты, средний чек, когорты) и составление модели юнит-экономики</span></td>
 <td style="width: 33.3333%; height: 18px;">pandas, numpy,&nbsp;seaborn,&nbsp;matplotlib</td>
 </tr>
