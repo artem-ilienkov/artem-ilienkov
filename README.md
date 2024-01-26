@@ -16,7 +16,7 @@
 </tr>
 <tr style="height: 18px;">
 <td style="width: 33.3333%; height: 18px;"><a href="https://github.com/artem-ilienkov/product_analysis_ed_tech" target="_blank" rel="noopener"><span>Анализ работы образовательного портал</span></a></td>
-<td style="width: 33.3333%; height: 18px;"><span>Оцифровка работы портала. Анализ поведения до первой покупки. Анализ покупательского поведения (частоты, средний чек, когорты) и составление модели юнит-экономики</span></td>
+<td style="width: 33.3333%; height: 18px;"><span>Оцифровка работы портала. <a href="https://nbviewer.org/github/artem-ilienkov/product_analysis_ed_tech/blob/731109d80e333ddaca1bed5386d0bd705026b528/ed_tech_ga.ipynb">Анализ поведения до первой покупки</a>. <a href="https://nbviewer.org/github/artem-ilienkov/product_analysis_ed_tech/blob/main/ed_tech_sales.ipynb">Анализ покупательского поведения</a> (частоты, средний чек, когорты) и <a href="https://docs.google.com/spreadsheets/d/1wn9SelDJIRS0H85UC8_lxbvhup3n5LA88nZ3PTuQYHg/edit?usp=sharing">составление модели юнит-экономики</a></span></td>
 <td style="width: 33.3333%; height: 18px;">pandas, numpy,&nbsp;seaborn,&nbsp;matplotlib, SQL, Google Analytics, Google BigQuery, Markov Chain Attribution</td>
 </tr>
 <tr style="height: 18px;">
