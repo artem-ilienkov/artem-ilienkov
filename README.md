@@ -35,9 +35,9 @@
 <td style="width: 33.3333%; height: 18px;">pandas, numpy, pingouin, seaborn, scipy, matplotlib</td>
 </tr>
 <tr style="height: 18px;">
-<td style="width: 33.3333%; height: 18px;"></td>
-<td style="width: 33.3333%; height: 18px;"></td>
-<td style="width: 33.3333%; height: 18px;"></td>
+<td style="width: 33.3333%; height: 18px;"><a href="https://nbviewer.org/github/artem-ilienkov/simple_analytics/blob/main/simple_analytics.ipynb" target="_blank" rel="noopener">Аналитика магазина OZON</a></td>
+<td style="width: 33.3333%; height: 18px;">Собрать решение, которое позволит анализировать эффективность продаж интернет маазина и управлять рентабельностью, себестоимостью, продажами</td>
+<td style="width: 33.3333%; height: 18px;">pandas, google sheets</td>
 </tr>
 </tbody>
 </table>
